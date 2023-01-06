@@ -1,0 +1,15 @@
+{
+   "name": "jqrony",
+   "main": "dist/jqrony.js",
+   "license": "MIT",
+   "ignore": [
+      "package.json"
+   ],
+   "keywords": [
+      "jqrony",
+      "javascript",
+      "browser",
+      "library",
+      "jqrony-first"
+   ]
+}
