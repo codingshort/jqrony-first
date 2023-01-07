@@ -13,6 +13,10 @@ Comments                | Initial Date           | Finished Date
 ------------------------|------------------------|---------------------------
 Code writing Initialize | 01-11-2022 AT 02:10 PM | 06-01-2023 AT 9:44:24 PM
 
+```html
+<script src=""></script>
+```
+
 ## Downloading jQrony-first using npm or Yarn
 ```sh
 npm install jqrony-first
